@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,400i');
 body {
-    background: bgg.jpg no-repeat center center fixed;
+    background: (bgg.jpg) no-repeat center center fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
