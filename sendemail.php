@@ -22,5 +22,5 @@
         <script>
             alert("Thank you for getting in touch!");
         </script>
-        <meta HTTP-EQUIV="REFRESH" content="0"; url="http://miracleinvestmentgroup.com/">
+        <meta HTTP-EQUIV="REFRESH" content="0; url='http://www.miracleinvestmentgroup.com/'"/>
     </head>
